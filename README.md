@@ -1,3 +1,3 @@
-<p align="center">
+<!-- <p align="center">
   <img src="gifs/anime.gif" alt="animated" />
-</p>
+</p> -->
